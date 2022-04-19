@@ -3,7 +3,7 @@ const sonyavpaa {
 name: "Sonya" || "Sonja",
 code: ["Javascript", "PHP"],
 ido: ["web dev", "photography"],
-spiritanimal: ["squirrel"]
+spiritanimal: "squirrel"
 }
 ```
 
