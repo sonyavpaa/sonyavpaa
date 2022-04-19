@@ -1,4 +1,11 @@
-### Hi there 👋
+```javascript
+const sonyavpaa {
+name: "Sonya" || "Sonja",
+code: ["Javascript", "PHP"],
+ido: ["web dev", "photography"],
+spiritanimal: ["squirrel"]
+}
+```
 
 <!--
 **sonyavpaa/sonyavpaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
